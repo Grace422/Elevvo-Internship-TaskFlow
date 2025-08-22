@@ -78,6 +78,7 @@ nav ul li:hover {
 .testimonial {
   display: flex;
   margin: 0 10%;
+  gap: 30px;
 }
 .testi {
   padding: 20px 30px;
